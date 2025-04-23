@@ -1,7 +1,8 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif, "Raleway", sans-serif;
   line-height: 1.5;
   background: #fff;
+  color: #2e2f42;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -13,7 +14,6 @@ body {
   color: #2e2f42;
 }
 .contacts {
-  font-weight: 400;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -56,7 +56,6 @@ body {
   color: #2e2f42;
 }
 .our-properties-descr {
-  font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.02em;
   color: #434455;
@@ -81,7 +80,6 @@ body {
   color: #2e2f42;
 }
 .image-descr {
-  font-weight: 400;
   letter-spacing: 0.02em;
   color: #434455;
 }
