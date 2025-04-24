@@ -133,8 +133,8 @@ ul {
 .page-footer-span {
   color: #f4f4fd;
 }
-.contacts a:hover,
-.contacts a:focus {
+.contacts:hover,
+.contacts:focus {
   color: #404bbf;
 }
 .nav-address {
