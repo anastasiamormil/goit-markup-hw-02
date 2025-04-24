@@ -66,26 +66,33 @@ body {
   padding-top: 48px;
   padding-bottom: 188px;
 }
-.our-properties-title {
+.title {
   font-weight: 500;
   font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .our-properties-descr {
   font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .our-properties {
   padding-top: 112px;
 }
-.our-team-title {
+.main-title {
   font-weight: 700;
   font-size: 36px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
+}
+.our-team-container {
+  background-color: #f4f4fd;
 }
 .our-team-images {
   background: url("path_to_image");
@@ -121,8 +128,11 @@ a {
 ul {
   list-style: none;
 }
-span {
+.page-span {
   color: #2e2f42;
+}
+.page-footer-span {
+  color: #f4f4fd;
 }
 .contacts a:hover,
 .contacts a:focus {
@@ -130,4 +140,11 @@ span {
 }
 .nav-address {
   font-size: normal;
+}
+.page-footer {
+  background-color: #2e2f42;
+}
+.footer-paragraph {
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
