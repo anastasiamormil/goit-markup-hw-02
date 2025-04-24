@@ -31,10 +31,6 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #fff;
-
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #fff;
   padding-top: 188px;
   padding-left: 472px;
   padding-right: 472px;
@@ -94,8 +90,8 @@ body {
 .our-team-container {
   background-color: #f4f4fd;
 }
-.our-team-images {
-  background: url("path_to_image");
+.our-team-image {
+  background-color: #ffffff;
 }
 .image-title {
   font-weight: 500;
@@ -122,6 +118,9 @@ body {
   width: 48px;
   height: 4px;
 }
+.page-nav-first {
+  color: #2e2f42;
+}
 a {
   text-decoration: none;
 }
@@ -139,7 +138,7 @@ ul {
   color: #404bbf;
 }
 .nav-address {
-  font-size: normal;
+  font-style: normal;
 }
 .page-footer {
   background-color: #2e2f42;
