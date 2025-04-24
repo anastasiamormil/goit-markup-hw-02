@@ -31,21 +31,11 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #fff;
-  padding-top: 188px;
-  padding-left: 472px;
-  padding-right: 472px;
 }
 .main-page-container {
   background: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
 .button {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   text-align: center;
   cursor: pointer;
@@ -56,12 +46,7 @@ body {
   letter-spacing: 0.04em;
   color: #fff;
 }
-.main-page-button {
-  padding-left: 636px;
-  padding-right: 635px;
-  padding-top: 48px;
-  padding-bottom: 188px;
-}
+
 .title {
   font-weight: 500;
   font-size: 20px;
@@ -74,9 +59,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-.our-properties {
-  padding-top: 112px;
 }
 .main-title {
   font-weight: 700;
@@ -105,7 +87,6 @@ body {
 }
 .button:hover,
 .button:focus {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
 }
 .page-nav a:hover,
@@ -114,9 +95,6 @@ body {
 }
 .page-nav-first:active {
   text-decoration: underline;
-  border-radius: 2px;
-  width: 48px;
-  height: 4px;
 }
 .page-nav-first {
   color: #2e2f42;
